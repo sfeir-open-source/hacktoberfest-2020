@@ -24,4 +24,9 @@ Cela permettra de facilité les recherche et de facilement trouver une table pou
 
 ### Tony
 
+https://github.com/GoogleCloudPlatform/magic-modules 
+Terraform Ansible InSpec go ruby. Communauté sympa et formatrice, beaucoup de sujets 
+
+https://github.com/sfeir-open-source/sonar-clover 
+
 
