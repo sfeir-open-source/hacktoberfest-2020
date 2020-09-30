@@ -10,7 +10,10 @@ Ici vous trouverez Le nom d'un contributeur de l'événement, suivit de quelques
 Cela permettra de facilité les recherche et de facilement trouver une table pour discuter.
 
 ### Anthony
-
+- https://github.com/TryGhost/Ghost : Project fullstack js, c'est un CMS principalement pour créer des blogs. Projet avec pas mal d'ambition qui séduit de plus en plus de gens
+- https://github.com/immerjs/immer : Outil js pour facilité la mise à jour de state principalement. Pas beaucoup d'issue, mais je pense que ça peut être intéressant de regarder sous le capot de cet lib
+- https://github.com/kuroidoruido/virtual-rpg-character-sheet : Petit projet pour gérer des fiches de personnage de jeux de rôle papier (pratique pour les sessions en ligne). Du Angular sans backend. J'ai ouvert quelques issues récemment
+- https://github.com/kuroidoruido/ngx-translate-assistant : Petit projet pour aider à gérer des fichiers de traduction pour ngx-translate. C'est un projet très jeune avec pas mal de bugs à corriger (et à trouver aussi j'imagine).
 
 ### Antoine
 
