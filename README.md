@@ -16,7 +16,8 @@ Cela permettra de faciliter les recherche et de facilement trouver une table pou
 - https://github.com/kuroidoruido/ngx-translate-assistant : Petit projet pour aider à gérer des fichiers de traduction pour ngx-translate. C'est un projet très jeune avec pas mal de bugs à corriger (et à trouver aussi j'imagine).
 
 ### Antoine
-
+- https://github.com/hashicorp/vault-action : Github action qui permet de récupérer des secrets vault, pour être utiliser dans le pipeline.
+- https://github.com/derailed/k9s/ : client k8s qui permets d'explorer les ressources d'un cluster, et de faire des actions simples.
 
 ### Romain
 
