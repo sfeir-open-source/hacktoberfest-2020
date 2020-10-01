@@ -5,9 +5,9 @@ Repository to share documents, share code....
 
 ## Liste de projets/tables
 
-Ici vous trouverez Le nom d'un contributeur de l'événement, suivit de quelques repositories 
-(ou d'un sujet de prédilection) sur lesquel il a contribué ou qu'il a identifié. 
-Cela permettra de facilité les recherche et de facilement trouver une table pour discuter.
+Ici vous trouverez le nom d'un contributeur de l'événement, suivi de quelques repositories 
+(ou d'un sujet de prédilection) sur lesquels il a contribué ou qu'il a identifié. 
+Cela permettra de faciliter les recherche et de facilement trouver une table pour discuter.
 
 ### Anthony
 - https://github.com/TryGhost/Ghost : Project fullstack js, c'est un CMS principalement pour créer des blogs. Projet avec pas mal d'ambition qui séduit de plus en plus de gens
