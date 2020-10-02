@@ -3,6 +3,14 @@
 # hacktoberfest-2020
 Repository to share documents, share code....
 
+## Le tag invalid
+
+Le but de cet évenement est de promouvoir et d'inciter les contributions open source. 
+Toutes les personnes qui participe à l'hacktoberfest chez SFEIR souhaite jouer le jeu et surtout 
+contribuer à faire de cet évenement un moment de qualité.
+
+Pour ne pas que ce repo soit un moyen peu fair play d'engranger des PR pour l'hacktoberfest, nous avons décidé de placer le tag invalid automatiquement sur toutes les PR faites ici.
+
 ## Liste de projets/tables
 
 Ici vous trouverez le nom d'un contributeur de l'événement, suivi de quelques repositories 
