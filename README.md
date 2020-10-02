@@ -9,7 +9,7 @@ Le but de cet évenement est de promouvoir et d'inciter les contributions open s
 Toutes les personnes qui participe à l'hacktoberfest chez SFEIR souhaite jouer le jeu et surtout 
 contribuer à faire de cet évenement un moment de qualité.
 
-Pour ne pas que ce repo soit un moyen peu fair play d'engranger des PR pour l'hacktoberfest, nous avons décidé de placer le tag invalid automatiquement sur toutes les PR faites ici.
+Nous avons décidé de placer le tag `invalid` automatiquement sur toutes les PR faites sur ce repo afin qu'elles ne soient pas comptabilisée dans le cadre de l'Hacktoberfest.
 
 ## Liste de projets/tables
 
@@ -48,5 +48,4 @@ https://github.com/GoogleCloudPlatform/magic-modules
 Terraform Ansible InSpec go ruby. Communauté sympa et formatrice, beaucoup de sujets 
 
 https://github.com/sfeir-open-source/sonar-clover 
-
 
