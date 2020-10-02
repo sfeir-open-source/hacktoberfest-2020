@@ -24,6 +24,12 @@ Cela permettra de faciliter les recherche et de facilement trouver une table pou
 ### Seb
 
 
+### Siegfried
+
+- https://github.com/nyrst/brrr un gestionnaire de paquet (un de plus). Si quelqu'un veut s'intéresser à la partie pour installer des apps sous Mac ce serait chou. Et il n'y a pas vraiment de tests ^^
+- https://github.com/nyrst/freezer le dépôt avec les définitions de paquet pour le bidule juste au dessus. N'hésitez pas à envoyer des définitions pour vos outils préférés !
+- https://github.com/SiegfriedEhret/beulogue un générateur de site statique (un de plus). Il n'y a pas vraiment de tests ^^
+
 ### Tine
 
 
