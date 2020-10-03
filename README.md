@@ -41,6 +41,10 @@ Cela permettra de faciliter les recherche et de facilement trouver une table pou
 
 ### Tine
 
+- https://github.com/javers/javers : Super framework Java d'audit et de diff d'objets avec persistence automatique en base de données SQL et NoSQL(Mongo) et support pour Spring Boot, Spring Data.
+- https://github.com/tinesoft/spring-esdata-loader (projet perso) : petite library Java compatible Junit 4 et 5 pour faciliter le chargement de données pour tester une application Spring Boot utilisant Spring Data ElasticSearch. Il faudrait améliorer les perfs lors du chargement de gros fichiers...
+- https://github.com/tinesoft/ngx-cookieconsent (projet perso): petit module Angular qui permet de facilement ajouter une barre de consentement de cookies (personnalisable), dans son application Angular. Il faudrait migrer vers workspace Nx (plus maintainable et puissant que la solution maison :-)...
+- https://github.com/tinesoft/ngx-scrollreveal (projet perso): petit module Angular qui permet d'animer des components dans son application Angular. Idem, il faudrait migrer vers workspace Nx...
 
 ### Tony
 
